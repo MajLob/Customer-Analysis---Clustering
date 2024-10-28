@@ -22,7 +22,6 @@ Each cluster shows unique behavioral and demographic patterns, allowing for pote
 # Files
 notebook.ipynb: Contains all steps in the analysis, including data preprocessing, PCA, and the K-Means and DBSCAN implementations.
 data: https://creativecommons.org/publicdomain/zero/1.0/
-README.md: Documentation of the project (this file).
 
 # Future Work
 Further Feature Engineering: Incorporating additional data points (such as purchase history or customer feedback) could lead to more refined clusters.
